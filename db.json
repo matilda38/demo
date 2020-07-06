@@ -1,34 +1,36 @@
 {
-    "results": [
-        {
-            "MoimId": "M000000001",
-            "MoimNM": "플러터스터디",
-            "Description": "플러터 어플 만들기",
-            "MoimImgUrl": ""
-        },
-        {
-            "MoimId": "M000000002",
-            "MoimNM": "와인모임",
-            "Description": "와인을 좋아하는 사람들의 모임",
-            "MoimImgUrl": ""
-        },
-        {
-            "MoimId": "M000000003",
-            "MoimNM": "전통주만들기",
-            "Description": "외국인들과 전통주 만들기",
-            "MoimImgUrl": ""
-        },
-        {
-            "MoimId": "M000000004",
-            "MoimNM": "보드게임 모임",
-            "Description": "금요일밤마다 보드게임",
-            "MoimImgUrl": ""
-        },
-        {
-            "MoimId": "M000000005",
-            "MoimNM": "집사들의 모임",
-            "Description": "고양이 키우는 사람들과 대화를 나눠봐요",
-            "MoimImgUrl": ""
-        }
-    ]
+    "groups": {
+        "results": [
+            {
+                "MoimId": "M000000001",
+                "MoimNM": "플러터스터디",
+                "Description": "플러터 어플 만들기",
+                "MoimImgUrl": ""
+            },
+            {
+                "MoimId": "M000000002",
+                "MoimNM": "와인모임",
+                "Description": "와인을 좋아하는 사람들의 모임",
+                "MoimImgUrl": ""
+            },
+            {
+                "MoimId": "M000000003",
+                "MoimNM": "전통주만들기",
+                "Description": "외국인들과 전통주 만들기",
+                "MoimImgUrl": ""
+            },
+            {
+                "MoimId": "M000000004",
+                "MoimNM": "보드게임 모임",
+                "Description": "금요일밤마다 보드게임",
+                "MoimImgUrl": ""
+            },
+            {
+                "MoimId": "M000000005",
+                "MoimNM": "집사들의 모임",
+                "Description": "고양이 키우는 사람들과 대화를 나눠봐요",
+                "MoimImgUrl": ""
+            }
+        ]
+    }
 }
